@@ -1,1 +1,11 @@
-theme: jekyll-theme-leap-day
+# basic options
+title: Interesting stuffs
+author: Yaqiong Zhang
+email: yaqiong.zhangmse@gmail.com
+description: a place for projects, notes, thoughts, ideas ...
+github_username: yaqiongz
+linkedin: https://www.linkedin.com/in/yaqiong-zhang-38bba2b4/
+
+# Build settings
+markdown: kramdown
+theme: minima
