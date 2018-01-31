@@ -1,6 +1,7 @@
 ---
 layout: post
-title: My first Kaggle competition: Iceberg classification from remote sensors
+title: A Great First Post
 ---
 
-This is also my Springboard data science capstone project #1. I worked with my mentor Aaron.
+This is it!
+What a wonderful post!
