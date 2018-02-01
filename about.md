@@ -3,13 +3,15 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+Hi, I'm Yaqiong. I studied carbon nanotubes chemical sensors in my phd life in the University of Utah. 
+
+Later, I decided I want to become a data scienitst. Why? 
 
 Reasons:
-- its great.
-- its a test.
+- I enjoy researching and understanding things. And I can use data science as a tool to understanding social phenomenons, testing scientifical hypothesis, and marketing problems.
 
-## Other thoughts
+- I love building things. A data scientist have the potential to building data products, such as search engine, recommendation system, and data piplines. 
 
-This is great.
+
+
+
