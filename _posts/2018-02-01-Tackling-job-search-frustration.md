@@ -1,3 +1,9 @@
+---
+layout: post
+title: Tackling job searching frustration
+---
+
+
 Last night, I joined a cheeky scientist association webniar about tackling job search frustration.
 
 I agree that there'are a lot people get hired last December, this makes those who did not get hired even more anxious.
