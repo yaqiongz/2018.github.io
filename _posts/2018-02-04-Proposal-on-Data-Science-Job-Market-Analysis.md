@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proposal: Proposal on Data Science Job Market Analysis
+title: Proposal on Data Science Job Market Analysis
 ---
 
 
