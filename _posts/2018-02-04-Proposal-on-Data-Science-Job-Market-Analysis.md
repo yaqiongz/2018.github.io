@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Proposal on Data Science Job Market Analysis
 ---
 
