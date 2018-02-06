@@ -12,7 +12,7 @@ This is the first meetup I've ever attend. I talked with the hoster Mike and he 
 
 The tutorial focused on R and data wrangling. Those functions are talked and followed by several excercises.
 
-### Dataset: Affair form AER.
+### Dataset: Affair from AER.
 
 load the data set:
 
