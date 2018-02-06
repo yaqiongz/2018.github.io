@@ -3,13 +3,15 @@ layout: posts
 title: Note Meetup New Haven Data Science R tutorial#2
 ---
 
-## [R and R Studio Intro Workshop Series - Session #2 Data wrangling with R](https://www.meetup.com/New-Haven-Data-Science-Meetup/events/247140860/)
-
+### [R and R Studio Intro Workshop Series - Session #2](https://www.meetup.com/New-Haven-Data-Science-Meetup/events/247140860/)
+## Data wrangling with R
 by IIIay Mowerman
 
-Talked with the hoster Mike and he introduced me to others. Very welcome environment.
+This is the first meetup I've ever attend. I talked with the hoster Mike and he introduced me to others. And also meet another person who is in a data science bootcamp. This is very welcome environment. 
 
-The tutorial worked on a dataset Affair form AER.
+The tutorial focused on R and data wrangling. Those functions are talked and followed by several excercises.
+
+### Dataset: Affair form AER.
 
 load the data set:
 
@@ -83,6 +85,4 @@ only use A for inner join
 
 The item in A not in B
 
-**gather**
-
-**spread**
+**gather**, **spread**
