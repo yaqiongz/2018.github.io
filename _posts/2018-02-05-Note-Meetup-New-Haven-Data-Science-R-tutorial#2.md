@@ -9,6 +9,14 @@ by IIIay Mowerman
 
 Talked with the hoster Mike and he introduced me to others. Very welcome environment.
 
+The tutorial worked on a dataset Affair form AER.
+
+load the data set:
+
+data("Affair")
+
+affairs <- Affairs
+
 ### librarys used in the tutorial:
 
 [AER](https://crantastic.org/packages/AER)
@@ -16,6 +24,7 @@ Talked with the hoster Mike and he introduced me to others. Very welcome environ
 [tidyverse](https://www.tidyverse.org/)
 
 ### Functions we used:
+
 **arrange**
 
 n1 <- affairs %>% arrange(desc(affairs),religiousness)
@@ -50,13 +59,11 @@ n4 <- cheater %>% summarise(sum_cheater=sum(cheater),mean_rating=(rating))
 
 n5 <- cheater
 
-
 **ungroup**
 
 **select**
 
 cheater %>% select(start_with('r'))
-
 
 **rename**
 
