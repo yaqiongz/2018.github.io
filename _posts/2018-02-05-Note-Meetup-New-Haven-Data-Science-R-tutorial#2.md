@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Note Meetup New Haven Data Science R tutorial#2
 ---
 
