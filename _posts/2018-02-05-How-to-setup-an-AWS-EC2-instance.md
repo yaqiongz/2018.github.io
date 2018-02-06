@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to setup AWS EC2 instance
+title: How to setup an AWS EC2 instance
 ---
 
 
