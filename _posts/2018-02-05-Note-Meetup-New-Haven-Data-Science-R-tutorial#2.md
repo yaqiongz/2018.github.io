@@ -3,7 +3,7 @@ layout: post
 title: Note Meetup New Haven Data Science R tutorial#2
 ---
 
-[meetup](https://www.meetup.com/New-Haven-Data-Science-Meetup/events/247140860/)
+[meetup: New Haven Data Science](https://www.meetup.com/New-Haven-Data-Science-Meetup/events/247140860/)
 ### R and R Studio Intro Workshop Series - Session #2
 ### Data wrangling with R
 by IIIay Mowerman
