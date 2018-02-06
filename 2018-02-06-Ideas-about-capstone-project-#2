@@ -1,0 +1,30 @@
+---
+layout: post
+title: Ideas about capstone project #2
+---
+
+#### 1. Predict stock price by analysing social media
+
+Some companies such as Navide, google and amazon have shown incredibly growth of stock price. Epecially for stock like Navide, their stock price may be highly related with the success and popularity of deep learning and related fields. 
+
+Question: if we can get any clues on how often the those topics are talked in social medias and how the stock price changes. 
+
+How: 
+
+- Build unsupervised models for analysing the twiteer data and find the clusters of certain topics.
+- Build a time-sequence model for the topic cluster and the stock price.
+- Predict 1, 3 and 5 day price of the stock and validate it. 
+
+Data resource API from [Quandl](https://www.quandl.com/) and [Twitter](https://developer.twitter.com/en/docs) 
+
+#### 2. Data science job market analysis
+I actually wrote the proposal here: [link](https://yaqiongz.github.io/website/2018/02/04/Proposal-on-Data-Science-Job-Market-Analysis.html)
+
+
+#### 3. Predict ASD at younger age
+
+Question: Can I build a model to predict Autisum Spectrum Disorder (ASD) at younger age?
+
+ASD is a complicated neurodevelopment disease. It affect the patient's language development, social skills and behaviors. Unfortunately, waiting times for an ASD diagnosis are lengthy and procedures are not cost effective. 
+
+[Autistic Spectrum Disorder Screening Data for Children Data Set](Autistic Spectrum Disorder Screening Data for Children Data Set)
