@@ -3,7 +3,8 @@ layout: post
 title: Ideas about capstone project #2
 ---
 
-3 ideas:
+
+3 ideas, Feb. 6th 2018
 
 #### 1. Predict stock price by analysing social media
 
