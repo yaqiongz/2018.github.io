@@ -30,4 +30,4 @@ Question: Can I build a model to predict Autisum Spectrum Disorder (ASD) at youn
 
 ASD is a complicated neurodevelopment disease. It affect the patient's language development, social skills and behaviors. Unfortunately, waiting times for an ASD diagnosis are lengthy and procedures are not cost effective. 
 
-[Autistic Spectrum Disorder Screening Data for Children Data Set](https://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Data+for+Children++)
+[Autistic Spectrum Disorder Screening Data for Children Data Set](https://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Data+for+Children++) This dataset contains 20 features. 10 of them are from a questionaire and the other 10 are some basic information about the children. 293 samples are provided in the dataset.
