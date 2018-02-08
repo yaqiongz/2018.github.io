@@ -5,29 +5,12 @@ title: Building iceberg classification models with Keras
 
 *This is my capstone project #1 in Springboard. And this is a on-going [Kaggle competition](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge) when I worked on this project.*
 
-There is the link for the full report: [Link](https://github.com/yaqiongz/aws/blob/master/FinalReport/FinalR_AWS.ipynb)
-
-![competition](https://github.com/yaqiongz/website/blob/master/assets/kaggle.png)
+Here is the link for the full report: [Link](https://github.com/yaqiongz/aws/blob/master/FinalReport/FinalR_AWS.ipynb)
 
 
-<img src="_img-2018-01-30/kaggle.png" alt="hi" class="inline"/>
+There are so many new images generated every second, from the smart phones by our hand, and from the radar in the sky. Letting a computer understanding images is useful, yet not easy. It's also interesting to recall the moments we teach our children apples and pears from those image cards. Human's brains are certainly different, but they also need to initiate the learning process. Now, is it a good time to initiate the learning of a computer?
 
-![useful image]({{ site.url }}/assets/kaggle.png)
-
-### The problem:
-
-
-### The data:
-
-
-### The model:
-
-
-
-
-
-
-
+In this kaggle chanllenge project, we want to let a computer tell icebergs and ships from remote sensors' image data with better performance. The teaching materials is a training dataset contains about 1600 image data. Those data are marked with the label if the images contain an iceberg or not. And then, after building the model from the training data, the model will predict new images and the performance of prediction will be evaluated. 
 
 
 ### Acknowledgements: 
