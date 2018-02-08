@@ -7,10 +7,12 @@ title: Building iceberg classification models with Keras
 
 There is the link for the full report: [Link](https://github.com/yaqiongz/aws/blob/master/FinalReport/FinalR_AWS.ipynb)
 
-![competition](_img-2018-01-30/kaggle.png)
+![competition](https://github.com/yaqiongz/website/blob/master/assets/kaggle.png)
 
 
 <img src="_img-2018-01-30/kaggle.png" alt="hi" class="inline"/>
+
+![useful image]({{ site.url }}/assets/kaggle.png)
 
 ### The problem:
 
