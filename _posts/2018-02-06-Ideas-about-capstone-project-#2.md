@@ -18,7 +18,7 @@ How:
 - Build a time-sequence model for the topic cluster and the stock price.
 - Predict 1, 3 and 5 day price of the stock and validate it. 
 
-Data resource API from [Quandl](https://www.quandl.com/) and [Twitter](https://developer.twitter.com/en/docs) 
+Data resource API from [Quandl](https://www.quandl.com/) and [Twitter](https://developer.twitter.com/en/docs), google trend, Reddit
 
 #### 2. Data science job market analysis
 I actually wrote the proposal here: [link](https://yaqiongz.github.io/website/2018/02/04/Proposal-on-Data-Science-Job-Market-Analysis.html)
@@ -30,4 +30,4 @@ Question: Can I build a model to predict Autisum Spectrum Disorder (ASD) at youn
 
 ASD is a complicated neurodevelopment disease. It affect the patient's language development, social skills and behaviors. Unfortunately, waiting times for an ASD diagnosis are lengthy and procedures are not cost effective. 
 
-[Autistic Spectrum Disorder Screening Data for Children Data Set](Autistic Spectrum Disorder Screening Data for Children Data Set)
+[Autistic Spectrum Disorder Screening Data for Children Data Set](https://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Data+for+Children++)
