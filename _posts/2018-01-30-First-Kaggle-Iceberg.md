@@ -8,9 +8,15 @@ title: Building iceberg classification models with Keras
 Here is the link for the full report: [Link](https://github.com/yaqiongz/aws/blob/master/FinalReport/FinalR_AWS.ipynb)
 
 
-There are so many new images generated every second, from the smart phones by our hand, and from the radar in the sky. Letting a computer understanding images is useful, yet not easy. It's also interesting to recall the moments we teach our children apples and pears from those image cards. Human's brains are certainly different, but they also need to initiate the learning process. Now, is it a good time to initiate the learning of a computer?
+There are so many new images generated every second, from the smart phones by our hand and from the radar in the sky. Letting a computer understand images is useful, yet not easy. It's interesting to recall the moments we teach our children apples and pears from image cards. Human's brains are certainly different, but they also need some teaching efforts. Now, is it the time to teach the computer about the contents in an image?
 
-In this kaggle chanllenge project, we want to let a computer tell icebergs and ships from remote sensors' image data with better performance. The teaching materials is a training dataset contains about 1600 image data. Those data are marked with the label if the images contain an iceberg or not. And then, after building the model from the training data, the model will predict new images and the performance of prediction will be evaluated. 
+In this kaggle chanllenge project, the goal is to let the computer tell icebergs and ships from remote sensors' image data. The teaching materials is a training dataset contains about 1600 image data. Those data are marked with labels telling us if a image contains an iceberg or not. After building a predictive model using the training data, we will test the model with new images (about 8000), and the performance of the prediction will be evaluated. 
+
+Let's first take a look at how the training dataset looks like:
+
+Each row in the json file contains a sample. There are two image bands for one sample, band_1 and band2. It's common to see image data have multiple bands. Usually, colored images contains three bands: R, G and B bands. Here in this radar
+
+
 
 
 ### Acknowledgements: 
