@@ -35,9 +35,8 @@ Therefore, it's valuable to have an analysis on the data science job market for 
 
 
 #### resources of the web scrapers
-1. https://github.com/sallamander/web-scrapers/tree/master/glassdoor
-2. https://nycdatascience.com/blog/student-works/web-scraping/glassdoor-web-scraping/
-3. https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b
-4. https://github.com/steve-liang/DSJobSkill
-5. https://towardsdatascience.com/scraping-indeed-for-job-salaries-e7ede688f169
+1. [Glassdoor Web-Scraper](https://github.com/sallamander/web-scrapers/tree/master/glassdoor)
+2. [Landing my dream job by scraping Glassdoor.com](https://nycdatascience.com/blog/student-works/web-scraping/glassdoor-web-scraping/)
+3. [Web Scraping Job Postings from Indeed](https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b)
+4. [Scrape Data Scientist's Skills from Indeed.com](https://github.com/steve-liang/DSJobSkill)
 
