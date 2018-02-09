@@ -29,7 +29,22 @@ So, I reshape the band_1 and band_2 data to a 75x75 array, and I created band_3 
 
 Another trick I found while doing this image classification problem is *imageargumentation*. This means we can play with the image a little bit, such as rotate, magnify and shift the image to get more training images. I found there is a buildin function in Keras to do the task. Before that, I have done image rotation myself and combined all the rotated and unrotated images together to train the data. And I did notice an improvement of testing result by doing this.
 
-### 3. Basic Covnet with Keras
+### 3. Basic Convnet with Keras
+**What is Convnet?** Convolutional neural networks (convnet) are neural networks that share their weigths across the space. This means that convnet scan images with small patches and each patch has the same weights. As the network grow, the height of the image gets bigger and the length and width of the image get smaller. It works quite well for image data since it catches small features in the image from those patches, which can be important for image classifying problems.  
+
+The details of how convnet works can find in this video: [Udacity Deep Learning](https://www.youtube.com/watch?v=jajksuQW4mc)
+
+Typically, there are a bunch of things need to be determined when building the Convent:
+1. The architecture: I have found a [simple architecture](https://www.kaggle.com/toregil/welcome-to-deep-learning-cnn-99) that works well with MNIST. There are several different layers here:
+   - Conv2D layer: this 
+   - Maxpooling layer:
+   - BatchNormalization layer:
+
+2. The hyperparameters
+   - batch size
+   - 
+
+
 
 
 
