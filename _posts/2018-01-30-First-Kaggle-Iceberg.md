@@ -13,7 +13,7 @@ There are so many new images generated every second, from the smart phones by ou
 
 In this kaggle chanllenge project, the goal is to let the computer tell icebergs and ships from remote sensors' image data. The teaching materials is a training dataset contains about 1600 image data. Those data are marked with labels telling us if an image contains an iceberg or not. After building a predictive model using the training data, we will test the model with new images (about 8000), and the performance of the prediction will be evaluated. The result is evaluated by log loss, which penalized heavily on wrong predictions. The goal of this competition is to increase the model's power of prediction(minimize log loss).
 
-In this blog, I will talk about my approach of building a basic convolutional neural network (convnet) model based on Keras. The mathmatical details of a convnet is complex, and there are a lot of tricks when training a convnet. Here I will focus only on building and understanding a basic convnet. More detailed work will not be talked here but can be found in my github reponsitory[Link](https://github.com/yaqiongz/aws/blob/master/FinalReport/FinalR_AWS.ipynb).
+In this blog, I will talk about my approach of building a basic convolutional neural network (convnet) model based on Keras. The mathmatical details of a convnet is complex, and there are a lot of tricks when training a convnet. Here I will focus only on building and understanding a basic convnet. More detailed work will not be talked here but can be found in my github reponsitory [Link](https://github.com/yaqiongz/aws/blob/master/FinalReport/FinalR_AWS.ipynb).
 
 ### 1. The training dataset looks like:
 
@@ -65,7 +65,7 @@ Training a new Convnet can be time_consuming, and there are a lot of hyperparame
 I followed the tutorial from [keras](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) to build my model. The score I got from this model is 0.35x. 
 
 ## Notes for Cross validation and hyperparameter tuning
-I did cross validation for hyperparameter tuning[link](https://github.com/yaqiongz/aws/blob/master/vgg16-finetuning.ipynb). In the future, I think it's useful to add cross validation for ensembling the results just like the author did in this kernel [link](https://www.kaggle.com/jirivrany/my-best-single-model-simple-cnn-lb-0-1541).
+I did cross validation for hyperparameter tuning [link](https://github.com/yaqiongz/aws/blob/master/vgg16-finetuning.ipynb). In the future, I think it's useful to add cross validation for ensembling the results just like the author did in this kernel [link](https://www.kaggle.com/jirivrany/my-best-single-model-simple-cnn-lb-0-1541).
 
 
 ## Suggestion for first time kaggler
