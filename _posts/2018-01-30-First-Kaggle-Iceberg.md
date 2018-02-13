@@ -69,9 +69,9 @@ I did cross validation for hyperparameter tuning [link](https://github.com/yaqio
 
 
 ## Suggestion for first time kaggler
-1. Learn from other's solution and other's best single model. Especially after the competition, there will have more solutions coming out from top rankers.
+1. Learn from other's solution and other's best single model. Especially after the competition, there will have solutions coming out from top rankers.
 2. Write well-structured code and consider making a machine learning framework that can be reused for future competitions.
-3. While practicing in kaggle, keep in mind that the goal of solving Kaggle problem is DIFFERENT from solving real-life problems. In kaggle, we are so focused on improving the performance of the model. But in real-life, the first important thing is to find out where is valuable question to ask, and then comes to the best way to solve it. The process of finding the right and doable question may takes even longer effort. And of course, real-life data won't be as clean as the data in kaggle.
+3. While practicing in kaggle, keep in mind that the goal of solving Kaggle problem is DIFFERENT from solving real-life problems. In kaggle, we are so focused on improving the performance of the model. But in real-life, the first important thing is to find out where is valuable question to ask, and then comes to the best way to solve it. The process of finding the right and doable question may takes more effort. And of course, real-life data won't be as clean as the data in kaggle.
 
 
 ### Acknowledgements: 
