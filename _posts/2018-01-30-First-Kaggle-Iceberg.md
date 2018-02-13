@@ -44,7 +44,7 @@ There are several different layers here:
    - *[BatchNormalization layer](https://arxiv.org/abs/1502.03167):* one of the regularization method. Allow fast training rate and less careful about initialization.
    - *Drop out layer:* one of the regularization method. It randomly drop a portion of the weights to zero to avoid overfitting.
 
-2. The hyperparameters
+**The hyperparameters**
    - batch size: to save computational resources, not all the samples are used during the training process. Batch size is how many samples are trained at the same time.
    - epoch: how many times are there for an all-sample training.
    - activation function in Convnet layer: ReLU (rectified linear unit), most commonly used.
