@@ -6,11 +6,11 @@ title: 101 data science project ideas
 
 Update: Feb. 13 2018
 
-
+***
 *Like the word mining. Data mining, not only the tools are needed, but also known where to minining is important. Without knowning where to mining, there will have nothing worthwhile coming out even with the best equipment.*
 
 I think it's good to gain the ability to find **meaningful problems** to work with. I listed 3 ideas for my capstone project in Feb. 6th. And I will add what ever I think is interesting to the list in the future.
-
+***
 3 ideas, Feb. 6th 2018
 
 #### 1. Predict stock price by analysing social media [tag: time-sequencing preditive modeling]
@@ -32,7 +32,6 @@ I actually wrote the proposal here: [link](https://yaqiongz.github.io/website/20
 
 
 #### 3. Predict ASD at younger age [tag: feature engineering]
-
 Question: Can I build a model to predict Autisum Spectrum Disorder (ASD) at younger age?
 
 ASD is a complicated neurodevelopment disease. It affect the patient's language development, social skills and behaviors. Unfortunately, waiting times for an ASD diagnosis are lengthy and procedures are not cost effective. 
