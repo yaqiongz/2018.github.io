@@ -4,9 +4,8 @@ title: Note Meetup New Haven Data Science R tutorial#2
 ---
 
 [meetup: New Haven Data Science](https://www.meetup.com/New-Haven-Data-Science-Meetup/events/247140860/)
-### R and R Studio Intro Workshop Series - Session #2
-### Data wrangling with R
-by IIIay Mowerman
+### R and R Studio Intro Workshop Series - Session #2 Data wrangling with R
+presented by IIIay Mowerman, hosted by Mike Spaner
 
 This is the first meetup I've ever attend. I talked with the hoster Mike and he introduced me to others. And also meet another person who is in a data science bootcamp. This is very welcome environment. 
 
