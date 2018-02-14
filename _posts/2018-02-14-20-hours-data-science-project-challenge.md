@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20 hours data science project challenge -- data science job market analysis and recommendation system
+title: 20 hours challenge -- data science job recommendation system
 ---
 
 Feb. 14 2018
