@@ -10,7 +10,7 @@ This morning, I read a blog from [Jason](https://machinelearningmastery.com/buil
 For me, the most useful message from reading Jason's blog is that try to make the project small (done in 10 - 20 hours). I agree with that since we are all busy for other obligations in our lives and other hobbies we want to spend time with. And the data science world is past paced as well. When new ideas and concepts come, people want to see how they work quickly. So, the key point would be finding the particular aspects of the project to work with, and dig deep into those aspects, and keep other aspects as simple as possible. So the work would be still interesting and worthwhile for the audiance to read and learn about, and for the author, it's still doable.
 
 
-**Here, I start my 20 hours project challenge today!** I will work on the project 2 hours daily in each following workdays. The topic is the capstone 2 project I proposed ealier: [link](https://yaqiongz.github.io/website/2018/02/04/Proposal-on-Data-Science-Job-Market-Analysis.html]
+**Here, I start my 20 hours project challenge today!** I will work on the project 2 hours daily in each following workdays. The topic is the capstone 2 project I proposed ealier: [link](https://yaqiongz.github.io/website/2018/02/04/Proposal-on-Data-Science-Job-Market-Analysis.html)
 
 
 
