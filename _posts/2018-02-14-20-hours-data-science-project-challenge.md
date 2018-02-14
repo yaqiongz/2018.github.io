@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-later
 title: 20 hours data science project challenge -- data science job market analysis and recommendation system
 ---
 
@@ -15,3 +15,5 @@ For me, the most useful message from reading Jason's blog is that try to make th
 
 
 Day 1: Feb. 14th 3-5pm
+Succesfully install Selenium, mongoDB, Pymongo.
+Study the webscrapper code available online.
