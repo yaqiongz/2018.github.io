@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 20 hours data science project challenge -- data science job market analysis and recommendation system
 ---
 
