@@ -15,5 +15,8 @@ For me, the most useful message from reading Jason's blog is that try to make th
 
 
 Day 1: Feb. 14th 3-5pm
-Succesfully install Selenium, mongoDB, Pymongo.
+Succesfully installed Selenium, mongoDB, Pymongo for the web scrapper.
 Study the webscrapper code available online.
+
+Day 2: Feb. 15th 7:30 - 9:30 pm
+I give up the web scrapping approach/using MongoDB. Found two datasets containing 22000 job posts in Kaggle. Setup the ProgreSQL.
