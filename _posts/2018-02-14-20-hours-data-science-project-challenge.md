@@ -20,3 +20,6 @@ Study the webscrapper code available online.
 
 Day 2: Feb. 15th 7:30 - 9:30 pm
 I give up the web scrapping approach/using MongoDB. Found two datasets containing 22000 job posts in Kaggle. Setup the ProgreSQL.
+
+Day 3: Feb. 15th 3-5pm
+Import .csv dataset to ProgresSQL (with error message). Design a recommendation system questionaire. Plan to find 3 earas to work with. 
