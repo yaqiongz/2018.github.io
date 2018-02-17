@@ -48,7 +48,7 @@ There are several different layers here:
    - batch size: to save computational resources, not all the samples are used during the training process. Batch size is how many samples are trained at the same time.
    - epoch: how many times there are for an all-sample training.
    - activation function in Convnet layer: ReLU (rectified linear unit), most commonly used.
-   - optimizer of gradient descent: chosen Adam, tried SGD as well. Adam is a optimization method present not long ago (in 2015) and it's an extension to traditional stochastic gradient descent (SGD). Adam works well in this project while the traditional SGD have times that the score of the model keep the same (not improving at the beginning). I found this more obviously when I use transfer learning with VGG16. This blog explains what is Adam well [link] https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/.
+   - optimizer of gradient descent: chosen Adam, tried SGD as well. Adam is a optimization method present not long ago (in 2015) and it's an extension to traditional stochastic gradient descent (SGD). Adam works well in this project while the traditional SGD have times that the score of the model keep the same (not improving at the beginning). I found this more obviously when I use transfer learning with VGG16. This blog explains what is Adam well [link](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/).
  
  
 Here is layers of the this convent:  IMG1
