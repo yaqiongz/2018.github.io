@@ -5,7 +5,7 @@ title: Building iceberg classification models with Keras
 
 *This is my capstone project #1 in Springboard. And this is a on-going [Kaggle competition](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge) when I worked on this project.*
 
-Here is the link for the full report: [Link](https://github.com/yaqiongz/aws/blob/master/FinalReport/FinalR_AWS.ipynb)
+Here is the link for the full report: [Link](https://github.com/yaqiongz/Iceberg1/blob/master/FinalR_AWS.ipynb)
 
 ---
 
