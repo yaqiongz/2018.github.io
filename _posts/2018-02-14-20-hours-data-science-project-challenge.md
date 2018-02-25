@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 20 hours challenge -- data science job recommendation system
 ---
 
